@@ -17,6 +17,8 @@
 
 <h1 align="center">Gorq PRIME — A Series for Inclusive, Responsible AI</h1>
 
+<p class="text-xl sm:text-2xl text-black/80 mb-8 animate-fade-in delay-100"><strong>P</strong>ublic <strong>R</strong>esearch &amp; <strong>I</strong>ntelligent <strong>M</strong>odel for <strong>E</strong>veryone</p>
+
 <p align="center">
   <strong>Gorq PRIME</strong> is a coordinated model & research series from <a href="https://gorqai.digital" target="_blank" rel="noopener">Gorq AI Platforms</a>, designed to advance practical, accessible, and ethical AI. This repository documents the PRIME series: goals, research principles, collaboration pathways, and progress — rather than providing or redistributing model weights.  
 </p>
