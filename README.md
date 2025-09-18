@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://gorqai.digital" target="_blank" rel="noopener">
-    <img src="assets/gorq-logo.png" alt="Gorq AI Platforms" height="96" style="margin-right:24px;">
+    <img src="assets/gorqlogo-bgless.png" alt="Gorq AI Platforms" height="96" style="margin-right:24px;">
   </a>
   <a href="./" target="_blank" rel="noopener">
-    <img src="assets/prime-logo.png" alt="Gorq PRIME Series" height="96">
+    <img src="primeserieslogo-transparent.png" alt="Gorq PRIME Series" height="96">
   </a>
 </p>
 
