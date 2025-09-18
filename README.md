@@ -11,7 +11,7 @@
     <img src="assets/gorqlogo-bgless.png" alt="Gorq AI Platforms" height="96" style="margin-right:24px;">
   </a>
   <a href="./" target="_blank" rel="noopener">
-    <img src="primeserieslogo-transparent.png" alt="Gorq PRIME Series" height="96">
+    <img src="assets/primeserieslogo-transparent.png" alt="Gorq PRIME Series" height="96">
   </a>
 </p>
 
