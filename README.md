@@ -10,7 +10,7 @@
   <a href="https://gorqai.digital" target="_blank" rel="noopener">
     <img src="assets/gorqlogo-bgless.png" alt="Gorq AI Platforms" height="96" style="margin-right:24px;">
   </a>
-  <a href="./" target="_blank" rel="noopener">
+  <a href="https://gorqai.digital/products/prime-series" target="_blank" rel="noopener">
     <img src="assets/primeserieslogo-transparent.png" alt="Gorq PRIME Series" height="96">
   </a>
 </p>
